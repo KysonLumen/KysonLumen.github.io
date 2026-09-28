@@ -12,8 +12,7 @@ body {
 
 # <span style="color: #527BBD;">Zikai Lu</span>
 
-Dalian University of Technology  
-School of Software  
+School of Software, Dalian University of Technology  
 Email: luzikai1224@163.com
 
 
