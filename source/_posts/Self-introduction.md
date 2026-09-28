@@ -1,5 +1,6 @@
 ---
 title: Self-introduction
+sticky: 100
 ---
 
 <style>
